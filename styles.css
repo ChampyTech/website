@@ -120,6 +120,10 @@ nav .left a {
     border-radius: 5px;
 }
 
+.links-socials-section .cells a:hover {
+    color: var(--text-color);
+}
+
 .links-socials-section .cells i {
     width: 25px;
     object-fit: contain;
@@ -154,6 +158,10 @@ nav .left a {
     border: 1.5px solid #d3d3d3;
     border-radius: 5px;
     text-align: center;
+}
+
+.projects-section .cells .cell a:hover {
+    color: var(--text-color);
 }
 
 /* Section 4: Wish List */
