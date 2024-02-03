@@ -171,7 +171,7 @@ nav .left a {
 
 /* Section 4: Wish List */
 
-.wish-list-section {
+/* .wish-list-section {
     padding: 0 50px;
     margin-bottom: 100px;
 }
@@ -192,7 +192,7 @@ nav .left a {
 
 .wish-list-section .text a:hover {
     color: var(--text-color);
-}
+} */
 
 .footer {
     text-align: center;
